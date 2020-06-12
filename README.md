@@ -1,7 +1,6 @@
 # Exploding_JSON_ZOMATO_DATASET
 
 Data has been handled using pyspark API on the Databricks platform.
-html file in the repository is facing issue on Github, download the zip for the code.
 
 #Schema of the JSON file -
  
